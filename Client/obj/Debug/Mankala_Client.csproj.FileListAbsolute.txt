@@ -1,0 +1,36 @@
+D:\WORK\zo_hw2016\firstNAP\firstNAP\Client\bin\Debug\Client.exe.config
+D:\WORK\zo_hw2016\firstNAP\firstNAP\Client\bin\Debug\Client.exe
+D:\WORK\zo_hw2016\firstNAP\firstNAP\Client\bin\Debug\Client.pdb
+D:\WORK\zo_hw2016\firstNAP\firstNAP\Client\obj\Debug\Client.ClientForm.resources
+D:\WORK\zo_hw2016\firstNAP\firstNAP\Client\obj\Debug\Client.Properties.Resources.resources
+D:\WORK\zo_hw2016\firstNAP\firstNAP\Client\obj\Debug\Mankala_Client.csproj.GenerateResource.Cache
+D:\WORK\zo_hw2016\firstNAP\firstNAP\Client\obj\Debug\Client.exe
+D:\WORK\zo_hw2016\firstNAP\firstNAP\Client\obj\Debug\Client.pdb
+C:\Users\Sharif\Desktop\firstNAP\firstNAP\Client\bin\Debug\Client.exe.config
+C:\Users\Sharif\Desktop\firstNAP\firstNAP\Client\bin\Debug\Client.exe
+C:\Users\Sharif\Desktop\firstNAP\firstNAP\Client\bin\Debug\Client.pdb
+C:\Users\Sharif\Desktop\firstNAP\firstNAP\Client\obj\Debug\Mankala_Client.csprojResolveAssemblyReference.cache
+C:\Users\Sharif\Desktop\firstNAP\firstNAP\Client\obj\Debug\Client.ClientForm.resources
+C:\Users\Sharif\Desktop\firstNAP\firstNAP\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Sharif\Desktop\firstNAP\firstNAP\Client\obj\Debug\Mankala_Client.csproj.GenerateResource.Cache
+C:\Users\Sharif\Desktop\firstNAP\firstNAP\Client\obj\Debug\Client.exe
+C:\Users\Sharif\Desktop\firstNAP\firstNAP\Client\obj\Debug\Client.pdb
+F:\SVU\Assginments\S16\NAP\ISE_NAP_S16_C2_mohammad_sharif_50753_majd_55856_leen_52984\Mankala Game\Client\bin\Debug\Client.exe.config
+F:\SVU\Assginments\S16\NAP\ISE_NAP_S16_C2_mohammad_sharif_50753_majd_55856_leen_52984\Mankala Game\Client\bin\Debug\Client.exe
+F:\SVU\Assginments\S16\NAP\ISE_NAP_S16_C2_mohammad_sharif_50753_majd_55856_leen_52984\Mankala Game\Client\bin\Debug\Client.pdb
+F:\SVU\Assginments\S16\NAP\ISE_NAP_S16_C2_mohammad_sharif_50753_majd_55856_leen_52984\Mankala Game\Client\obj\Debug\Client.About.resources
+F:\SVU\Assginments\S16\NAP\ISE_NAP_S16_C2_mohammad_sharif_50753_majd_55856_leen_52984\Mankala Game\Client\obj\Debug\Client.ClientForm.resources
+F:\SVU\Assginments\S16\NAP\ISE_NAP_S16_C2_mohammad_sharif_50753_majd_55856_leen_52984\Mankala Game\Client\obj\Debug\Client.Properties.Resources.resources
+F:\SVU\Assginments\S16\NAP\ISE_NAP_S16_C2_mohammad_sharif_50753_majd_55856_leen_52984\Mankala Game\Client\obj\Debug\Mankala_Client.csproj.GenerateResource.Cache
+F:\SVU\Assginments\S16\NAP\ISE_NAP_S16_C2_mohammad_sharif_50753_majd_55856_leen_52984\Mankala Game\Client\obj\Debug\Client.exe
+F:\SVU\Assginments\S16\NAP\ISE_NAP_S16_C2_mohammad_sharif_50753_majd_55856_leen_52984\Mankala Game\Client\obj\Debug\Client.pdb
+C:\Users\SharifQ\Desktop\NAP\ISE_NAP_S16_C2_mohammad_sharif_50753_majd_55856_leen_52984\Mankala Game Solution\Client\bin\Debug\Client.exe.config
+C:\Users\SharifQ\Desktop\NAP\ISE_NAP_S16_C2_mohammad_sharif_50753_majd_55856_leen_52984\Mankala Game Solution\Client\bin\Debug\Client.exe
+C:\Users\SharifQ\Desktop\NAP\ISE_NAP_S16_C2_mohammad_sharif_50753_majd_55856_leen_52984\Mankala Game Solution\Client\bin\Debug\Client.pdb
+C:\Users\SharifQ\Desktop\NAP\ISE_NAP_S16_C2_mohammad_sharif_50753_majd_55856_leen_52984\Mankala Game Solution\Client\obj\Debug\Mankala_Client.csprojResolveAssemblyReference.cache
+C:\Users\SharifQ\Desktop\NAP\ISE_NAP_S16_C2_mohammad_sharif_50753_majd_55856_leen_52984\Mankala Game Solution\Client\obj\Debug\Client.About.resources
+C:\Users\SharifQ\Desktop\NAP\ISE_NAP_S16_C2_mohammad_sharif_50753_majd_55856_leen_52984\Mankala Game Solution\Client\obj\Debug\Client.ClientForm.resources
+C:\Users\SharifQ\Desktop\NAP\ISE_NAP_S16_C2_mohammad_sharif_50753_majd_55856_leen_52984\Mankala Game Solution\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\SharifQ\Desktop\NAP\ISE_NAP_S16_C2_mohammad_sharif_50753_majd_55856_leen_52984\Mankala Game Solution\Client\obj\Debug\Mankala_Client.csproj.GenerateResource.Cache
+C:\Users\SharifQ\Desktop\NAP\ISE_NAP_S16_C2_mohammad_sharif_50753_majd_55856_leen_52984\Mankala Game Solution\Client\obj\Debug\Client.exe
+C:\Users\SharifQ\Desktop\NAP\ISE_NAP_S16_C2_mohammad_sharif_50753_majd_55856_leen_52984\Mankala Game Solution\Client\obj\Debug\Client.pdb

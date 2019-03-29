@@ -1,0 +1,11 @@
+H:\zo\new\DotsAndBox\Solution1\Client\bin\Debug\Client.exe.config
+H:\zo\new\DotsAndBox\Solution1\Client\bin\Debug\Client.exe
+H:\zo\new\DotsAndBox\Solution1\Client\bin\Debug\Client.pdb
+H:\zo\new\DotsAndBox\Solution1\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+H:\zo\new\DotsAndBox\Solution1\Client\obj\Debug\Client.Properties.Resources.resources
+H:\zo\new\DotsAndBox\Solution1\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+H:\zo\new\DotsAndBox\Solution1\Client\obj\Debug\Client.exe
+H:\zo\new\DotsAndBox\Solution1\Client\obj\Debug\Client.pdb
+H:\zo\new\DotsAndBox\Solution1\Client\bin\Debug\DotsBoxClass.dll
+H:\zo\new\DotsAndBox\Solution1\Client\bin\Debug\DotsBoxClass.pdb
+H:\zo\new\DotsAndBox\Solution1\Client\obj\Debug\Client.ClientForm.resources

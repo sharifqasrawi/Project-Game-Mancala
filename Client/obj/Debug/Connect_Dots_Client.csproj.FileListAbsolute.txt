@@ -1,0 +1,17 @@
+H:\zo\new\first\Client\bin\Debug\Client.exe.config
+H:\zo\new\first\Client\bin\Debug\Client.exe
+H:\zo\new\first\Client\bin\Debug\Client.pdb
+H:\zo\new\first\Client\obj\Debug\Client.ClientForm.resources
+H:\zo\new\first\Client\obj\Debug\Client.Properties.Resources.resources
+H:\zo\new\first\Client\obj\Debug\Connect_Dots_Client.csproj.GenerateResource.Cache
+H:\zo\new\first\Client\obj\Debug\Client.exe
+H:\zo\new\first\Client\obj\Debug\Client.pdb
+H:\zo\new\first\Client\obj\Debug\Connect_Dots_Client.csprojResolveAssemblyReference.cache
+D:\WORK\zo_hw2016\firstNAP\firstNAP\Client\bin\Debug\Client.exe.config
+D:\WORK\zo_hw2016\firstNAP\firstNAP\Client\bin\Debug\Client.exe
+D:\WORK\zo_hw2016\firstNAP\firstNAP\Client\bin\Debug\Client.pdb
+D:\WORK\zo_hw2016\firstNAP\firstNAP\Client\obj\Debug\Client.ClientForm.resources
+D:\WORK\zo_hw2016\firstNAP\firstNAP\Client\obj\Debug\Client.Properties.Resources.resources
+D:\WORK\zo_hw2016\firstNAP\firstNAP\Client\obj\Debug\Connect_Dots_Client.csproj.GenerateResource.Cache
+D:\WORK\zo_hw2016\firstNAP\firstNAP\Client\obj\Debug\Client.exe
+D:\WORK\zo_hw2016\firstNAP\firstNAP\Client\obj\Debug\Client.pdb

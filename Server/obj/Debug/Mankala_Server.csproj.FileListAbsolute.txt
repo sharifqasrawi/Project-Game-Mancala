@@ -1,0 +1,38 @@
+D:\WORK\zo_hw2016\firstNAP\firstNAP\Server\bin\Debug\Server.exe.config
+D:\WORK\zo_hw2016\firstNAP\firstNAP\Server\bin\Debug\Server.exe
+D:\WORK\zo_hw2016\firstNAP\firstNAP\Server\bin\Debug\Server.pdb
+D:\WORK\zo_hw2016\firstNAP\firstNAP\Server\obj\Debug\Server.Properties.Resources.resources
+D:\WORK\zo_hw2016\firstNAP\firstNAP\Server\obj\Debug\Mankala_Server.csproj.GenerateResource.Cache
+D:\WORK\zo_hw2016\firstNAP\firstNAP\Server\obj\Debug\Server.exe
+D:\WORK\zo_hw2016\firstNAP\firstNAP\Server\obj\Debug\Server.pdb
+D:\WORK\zo_hw2016\firstNAP\firstNAP\Server\obj\Debug\Server.Mankala_Server_Form.resources
+C:\Users\Sharif\Desktop\firstNAP\firstNAP\Server\bin\Debug\Server.exe.config
+C:\Users\Sharif\Desktop\firstNAP\firstNAP\Server\bin\Debug\Server.exe
+C:\Users\Sharif\Desktop\firstNAP\firstNAP\Server\bin\Debug\Server.pdb
+C:\Users\Sharif\Desktop\firstNAP\firstNAP\Server\obj\Debug\Server.Mankala_Server_Form.resources
+C:\Users\Sharif\Desktop\firstNAP\firstNAP\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\Sharif\Desktop\firstNAP\firstNAP\Server\obj\Debug\Mankala_Server.csproj.GenerateResource.Cache
+C:\Users\Sharif\Desktop\firstNAP\firstNAP\Server\obj\Debug\Server.exe
+C:\Users\Sharif\Desktop\firstNAP\firstNAP\Server\obj\Debug\Server.pdb
+F:\SVU\Assginments\S16\NAP\ISE_NAP_S16_C2_mohammad_sharif_50753_majd_55856_leen_52984\Mankala Game\Server\bin\Debug\Server.exe.config
+F:\SVU\Assginments\S16\NAP\ISE_NAP_S16_C2_mohammad_sharif_50753_majd_55856_leen_52984\Mankala Game\Server\bin\Debug\Server.exe
+F:\SVU\Assginments\S16\NAP\ISE_NAP_S16_C2_mohammad_sharif_50753_majd_55856_leen_52984\Mankala Game\Server\bin\Debug\Server.pdb
+F:\SVU\Assginments\S16\NAP\ISE_NAP_S16_C2_mohammad_sharif_50753_majd_55856_leen_52984\Mankala Game\Server\obj\Debug\Server.About.resources
+F:\SVU\Assginments\S16\NAP\ISE_NAP_S16_C2_mohammad_sharif_50753_majd_55856_leen_52984\Mankala Game\Server\obj\Debug\Server.Mankala_Server_Form.resources
+F:\SVU\Assginments\S16\NAP\ISE_NAP_S16_C2_mohammad_sharif_50753_majd_55856_leen_52984\Mankala Game\Server\obj\Debug\Server.Properties.Resources.resources
+F:\SVU\Assginments\S16\NAP\ISE_NAP_S16_C2_mohammad_sharif_50753_majd_55856_leen_52984\Mankala Game\Server\obj\Debug\Mankala_Server.csproj.GenerateResource.Cache
+F:\SVU\Assginments\S16\NAP\ISE_NAP_S16_C2_mohammad_sharif_50753_majd_55856_leen_52984\Mankala Game\Server\obj\Debug\Server.exe
+F:\SVU\Assginments\S16\NAP\ISE_NAP_S16_C2_mohammad_sharif_50753_majd_55856_leen_52984\Mankala Game\Server\obj\Debug\Server.pdb
+F:\SVU\Assginments\S16\NAP\ISE_NAP_S16_C2_mohammad_sharif_50753_majd_55856_leen_52984\Mankala Game Solution\Server\bin\Debug\Server.exe.config
+F:\SVU\Assginments\S16\NAP\ISE_NAP_S16_C2_mohammad_sharif_50753_majd_55856_leen_52984\Mankala Game Solution\Server\obj\Debug\Server.exe
+F:\SVU\Assginments\S16\NAP\ISE_NAP_S16_C2_mohammad_sharif_50753_majd_55856_leen_52984\Mankala Game Solution\Server\obj\Debug\Server.pdb
+C:\Users\SharifQ\Desktop\NAP\ISE_NAP_S16_C2_mohammad_sharif_50753_majd_55856_leen_52984\Mankala Game Solution\Server\bin\Debug\Server.exe.config
+C:\Users\SharifQ\Desktop\NAP\ISE_NAP_S16_C2_mohammad_sharif_50753_majd_55856_leen_52984\Mankala Game Solution\Server\obj\Debug\Server.exe
+C:\Users\SharifQ\Desktop\NAP\ISE_NAP_S16_C2_mohammad_sharif_50753_majd_55856_leen_52984\Mankala Game Solution\Server\obj\Debug\Server.pdb
+C:\Users\SharifQ\Desktop\NAP\ISE_NAP_S16_C2_mohammad_sharif_50753_majd_55856_leen_52984\Mankala Game Solution\Server\bin\Debug\Server.exe
+C:\Users\SharifQ\Desktop\NAP\ISE_NAP_S16_C2_mohammad_sharif_50753_majd_55856_leen_52984\Mankala Game Solution\Server\bin\Debug\Server.pdb
+C:\Users\SharifQ\Desktop\NAP\ISE_NAP_S16_C2_mohammad_sharif_50753_majd_55856_leen_52984\Mankala Game Solution\Server\obj\Debug\Mankala_Server.csprojResolveAssemblyReference.cache
+C:\Users\SharifQ\Desktop\NAP\ISE_NAP_S16_C2_mohammad_sharif_50753_majd_55856_leen_52984\Mankala Game Solution\Server\obj\Debug\Server.About.resources
+C:\Users\SharifQ\Desktop\NAP\ISE_NAP_S16_C2_mohammad_sharif_50753_majd_55856_leen_52984\Mankala Game Solution\Server\obj\Debug\Server.Mankala_Server_Form.resources
+C:\Users\SharifQ\Desktop\NAP\ISE_NAP_S16_C2_mohammad_sharif_50753_majd_55856_leen_52984\Mankala Game Solution\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\SharifQ\Desktop\NAP\ISE_NAP_S16_C2_mohammad_sharif_50753_majd_55856_leen_52984\Mankala Game Solution\Server\obj\Debug\Mankala_Server.csproj.GenerateResource.Cache
